@@ -27,7 +27,7 @@ Natija = [ 5, 4, 3, 2, 1, ]
 ```
 ## task7
 ```
-Before: 0
+Before: 3
 After: 0
 ```
 ## task8
