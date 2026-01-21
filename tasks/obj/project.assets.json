@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hacker/C##/kurci C# .NET/H3h3/task1/task1.csproj",
-      "projectName": "task1",
-      "projectPath": "/home/hacker/C##/kurci C# .NET/H3h3/task1/task1.csproj",
+      "projectUniqueName": "/home/hacker/C##/kurci C# .NET/H3h3/tasks/tasks.csproj",
+      "projectName": "tasks",
+      "projectPath": "/home/hacker/C##/kurci C# .NET/H3h3/tasks/tasks.csproj",
       "packagesPath": "/home/hacker/.nuget/packages/",
-      "outputPath": "/home/hacker/C##/kurci C# .NET/H3h3/task1/obj/",
+      "outputPath": "/home/hacker/C##/kurci C# .NET/H3h3/tasks/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hacker/.nuget/NuGet/NuGet.Config"
