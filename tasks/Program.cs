@@ -39,25 +39,25 @@ foreach (var s in letters)
 }
 Console.WriteLine("]");
 Console.WriteLine("-----------------------------");
-Console.WriteLine("task4");
-Console.WriteLine();
-if (clearList.Count() > 0)
-{
-    Console.WriteLine("Before clear: False");
-}
-else
-{
-    Console.WriteLine("After clear: True");
-}
-clearList.Clear();
-if (clearList.Count() > 0)
-{
-    Console.WriteLine("Before clear: False");
-}
-else
-{
-    Console.WriteLine("After clear: True");
-}
+// Console.WriteLine("task4");
+// Console.WriteLine();
+// if (clearList.Count() > 0)
+// {
+//    Console.WriteLine("Before clear: False");
+// }
+// else
+// {
+//    Console.WriteLine("After clear: True");
+// }
+// clearList.Clear();
+// if (clearList.Count() > 0)
+// {
+//    Console.WriteLine("Before clear: False");
+// }
+// else
+// {
+//     Console.WriteLine("After clear: True");
+// }
 Console.WriteLine("-----------------------------");
 Console.WriteLine("task5");
 Console.WriteLine();
